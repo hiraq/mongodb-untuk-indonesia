@@ -78,17 +78,17 @@ MySQL menggunakan `mysqld` sebagai server, dan `mysql` sebagai client. Pada Mong
 
     MySQL
     SELECT *
-    FROM users
-    WHERE status = "A"
-    OR age = 50
+    FROM pengguna
+    WHERE status = "aktif"
+    OR nomor = 50
 
 **MongoDB**
 
-    db.users.find(
+    db.pengguna.find(
     {
         $or: [
-            { status: "A" },
-            { age: 50 }
+            { status: "aktif" },
+            { nomor: 50 }
         ]
     })
 
