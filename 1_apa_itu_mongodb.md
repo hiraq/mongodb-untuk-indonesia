@@ -91,7 +91,3 @@ MySQL menggunakan `mysqld` sebagai server, dan `mysql` sebagai client. Pada Mong
             { nomor: 50 }
         ]
     })
-
-
-
-
