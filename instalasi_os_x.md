@@ -2,5 +2,9 @@
 
 Ada dua cara instalasi pada OS X, yaitu :
 
-- Menggunakan Brew
+- Via [Homerew](http://brew.sh/)
 - Manual
+
+### Homebrew
+
+s
