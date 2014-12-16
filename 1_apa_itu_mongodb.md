@@ -18,9 +18,7 @@ Contoh document
     }
 
 
-## Pemetaan
-
-### Terminologi dan Konsep
+## Terminologi dan Konsep
 
 Tabel berikut menyajikan terminologi berbagai SQL dan MongoDB.
 
@@ -68,12 +66,7 @@ Tabel berikut menyajikan terminologi berbagai SQL dan MongoDB.
 </table>
 
 
-### Executables
-
-MySQL menggunakan `mysqld` sebagai server, dan `mysql` sebagai client. Pada MongoDB, untuk database server menggunakan `mongod`, dan client	menggunakan `mongo`.
-
-
-### Contoh Penggunaan
+## Contoh Penggunaan
 
 **SQL**
 
