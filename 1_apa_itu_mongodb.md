@@ -70,7 +70,7 @@ Tabel berikut menyajikan terminologi berbagai SQL dan MongoDB.
 
 ### Executables
 
-Database server menggunakan `mongod` dan client	menggunakan `mongo`.
+MySQL menggunakan `mysqld` sebagai server, dan `mysql` sebagai client. Pada MongoDB, untuk database server menggunakan `mongod`, dan client	menggunakan `mongo`.
 
 
 
