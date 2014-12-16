@@ -70,7 +70,7 @@ Tabel berikut menyajikan terminologi berbagai SQL dan MongoDB.
 
 ### Executables
 
-
+Database server menggunakan `mongod` dan client	menggunakan `mongo`.
 
 
 
