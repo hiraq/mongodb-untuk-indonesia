@@ -1,5 +1,5 @@
 # Summary
 
 * [Pengantar](README.md)
-* [MongoDB dan NoSQL](1_mongodb_dan_nosql.md)
+* [NoSQL dan MongoDB](1.nosql_dan_mongodb.md)
 
