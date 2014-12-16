@@ -22,3 +22,45 @@ Contoh document
 
 ### Terminologi dan Konsep
 
+<table>
+    <colgroup>
+        <col width="50%">
+            <col width="50%">
+    </colgroup>
+    <thead>
+        <tr>
+            <th>SQL</th>
+            <th>MongoDB</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>database</td>
+            <td>database</td>
+        </tr>
+        <tr>
+            <td>table</td>
+            <td>collection</td>
+        </tr>
+        <tr>
+            <td>row</td>
+            <td>document</td>
+        </tr>
+        <tr>
+            <td>column</td>
+            <td>field</td>
+        </tr>
+        <tr>
+            <td>index</td>
+            <td>index</td>
+        </tr>
+        <tr>
+            <td>table joins</td>
+            <td>embedded documents dan linking</td>
+        </tr>
+        <tr>
+            <td>primary key</td>
+            <td>primary key</td>
+        </tr>
+    </tbody>
+</table>
