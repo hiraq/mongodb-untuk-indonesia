@@ -1,4 +1,4 @@
-# Instalasi dan Menjalankan MongoDB
+# Instalasi, Menjalankan dan Konfigurasi MongoDB
 
 ## Instalasi
 
