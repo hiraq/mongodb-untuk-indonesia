@@ -5,12 +5,12 @@ Buku ini akan mengajarkan Anda dasar-dasar dari MongoDB. Apakah Anda seorang yan
 Buku ini didedikasikan untuk Indonesia.
 
 
-### Butuh bantuan?
+#### Butuh bantuan?
 
 Anda dapat mengajukan pertanyaan atau hal lainnya (yang berhubungan dengan buku ini) ke [w.kristories@gmail.com](mailto:w.kristories@gmail.com).
 
 
-### Lisensi
+#### Lisensi
 
 Seluruh isi dalam buku ini memiliki lisensi [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
