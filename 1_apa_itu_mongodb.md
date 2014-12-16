@@ -72,6 +72,7 @@ Tabel berikut menyajikan terminologi berbagai SQL dan MongoDB.
 
 MySQL menggunakan `mysqld` sebagai server, dan `mysql` sebagai client. Pada MongoDB, untuk database server menggunakan `mongod`, dan client	menggunakan `mongo`.
 
+
 ### Contoh Penggunaan
 
 **SQL**
