@@ -9,3 +9,7 @@ Untuk proses instalasi, pilih sistem operasi yang digunakan.
 
 ## Menjalankan MongoDB
 
+Sebelum menjalankan MongoDB, buatlah direktori khusus untuk `mongod` yang akan menulis data.
+
+*Asumsi direktori berada di `/data_mongodb`*.
+
