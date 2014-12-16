@@ -7,6 +7,10 @@
    * Linux
    * Windows
 * Operasi Dasar
+* Tipe BSON
 * Shell Methods
 * Operator
 * Perintah Database
+* GridFS
+* Aggregation
+* Sekuritas
