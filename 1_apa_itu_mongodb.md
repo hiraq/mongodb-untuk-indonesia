@@ -66,3 +66,20 @@ Tabel berikut menyajikan terminologi berbagai SQL dan MongoDB.
         </tr>
     </tbody>
 </table>
+
+
+### Executables
+
+
+
+
+
+
+
+
+
+
+
+
+
+
