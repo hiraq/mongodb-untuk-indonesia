@@ -7,7 +7,7 @@ Buku ini didedikasikan untuk Indonesia.
 
 ### Butuh bantuan?
 
-Kami selalu senang untuk membantu dengan buku atau pertanyaan lain yang mungkin Anda miliki. Anda dapat mengajukan pertanyaan atau sinyal masalah pada isu-isu pelacak berikut atau hubungi kami melalui email di contact@gitbook.com.
+Anda dapat mengajukan pertanyaan atau hal lainnya (yang berhubungan dengan buku ini) ke [w.kristories@gmail.com](mailto:w.kristories@gmail.com).
 
 
 ### Lisensi
