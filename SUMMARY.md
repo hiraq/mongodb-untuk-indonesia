@@ -10,10 +10,10 @@
 * Shell Methods
 * Operator
 * Perintah Database
-* GridFS
 * Aggregation
 * Indexes
 * Replication
 * Sharding
+* GridFS
 * Sekuritas
 * Penutup
