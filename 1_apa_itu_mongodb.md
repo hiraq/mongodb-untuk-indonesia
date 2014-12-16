@@ -22,6 +22,8 @@ Contoh document
 
 ### Terminologi dan Konsep
 
+Tabel berikut menyajikan terminologi berbagai SQL dan MongoDB.
+
 <table>
     <colgroup>
         <col width="50%">
