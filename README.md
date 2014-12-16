@@ -12,8 +12,7 @@ Anda dapat mengajukan pertanyaan atau hal lainnya (yang berhubungan dengan buku 
 
 #### Lisensi 
 
-**MongoDB Untuk Indonesia** by [**Wahyu Kristianto**](http://kristories.com) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://www.gitbook.com/book/kristories/mongodb-untuk-indonesia" rel="dct:source">https://www.gitbook.com/book/kristories/mongodb-untuk-indonesia</a>.
+**MongoDB Untuk Indonesia** by [**Wahyu Kristianto**](http://kristories.com) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+![http://creativecommons.org/licenses/by-sa/4.0/](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
