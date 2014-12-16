@@ -13,4 +13,5 @@
 * Perintah Database
 * GridFS
 * Aggregation
+* Indexes
 * Sekuritas
