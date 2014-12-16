@@ -10,6 +10,9 @@ Buku ini didedikasikan untuk Indonesia.
 Anda dapat mengajukan pertanyaan atau hal lainnya (yang berhubungan dengan buku ini) ke [w.kristories@gmail.com](mailto:w.kristories@gmail.com).
 
 
+#### Sponsor
+
+
 #### Lisensi 
 
 **MongoDB Untuk Indonesia** by [**Wahyu Kristianto**](http://kristories.com) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
