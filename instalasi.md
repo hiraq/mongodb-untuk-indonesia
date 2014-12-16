@@ -9,11 +9,13 @@ Untuk proses instalasi, pilih sistem operasi yang digunakan.
 
 ## Menjalankan MongoDB
 
-Sebelum menjalankan MongoDB, buatlah direktori khusus untuk `mongod` yang akan melakukan proses menulis data. Ubah permission direktori tersebut agar dapat membaca dan menulis, dan pastikan bahwa MongoDB `bin` ada dalam variable PATH.
+Sebelum menjalankan MongoDB, buatlah direktori khusus untuk `mongod` yang akan melakukan proses menulis data. Defult direktori berada di `/data/db`. Ubah permission direktori tersebut agar dapat membaca dan menulis, dan pastikan bahwa MongoDB `bin` ada dalam variable PATH.
 
-*Asumsi direktori berada di `/data_mongodb`*.
 
 Jalankan `mongod`.
 
     mongod
 
+Jika menginginkan menjalankan MongoDB pada direktori yang berbeda, dapat menambahkan `--dbpath`. 
+
+    mongod --dbpath /folder/yang/akan/dipakai
