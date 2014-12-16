@@ -16,3 +16,4 @@
 * Replication
 * Sharding
 * Sekuritas
+* Penutup
