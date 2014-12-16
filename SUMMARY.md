@@ -14,4 +14,6 @@
 * GridFS
 * Aggregation
 * Indexes
+* Replication
+* Sharding
 * Sekuritas
