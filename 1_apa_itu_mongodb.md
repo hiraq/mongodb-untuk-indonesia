@@ -74,13 +74,23 @@ MySQL menggunakan `mysqld` sebagai server, dan `mysql` sebagai client. Pada Mong
 
 ### Contoh Penggunaan
 
+**SQL**
 
+    MySQL
+    SELECT *
+    FROM users
+    WHERE status = "A"
+    OR age = 50
 
+**MongoDB**
 
-
-
-
-
+    db.users.find(
+    {
+        $or: [
+            { status: "A" },
+            { age: 50 }
+        ]
+    })
 
 
 
