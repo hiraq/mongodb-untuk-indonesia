@@ -1,2 +1,2 @@
-# OS X
+# Instalasi - OS X
 
