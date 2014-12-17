@@ -2,19 +2,15 @@
 
 Buku ini akan mengajarkan Anda dasar-dasar dari MongoDB. Apakah Anda seorang yang berpengalaman atau tidak, buku ini ditujukan untuk semua orang yang ingin belajar bahasa tentang MongoDB document database, keluarga NoSQL.
 
-Buku ini didedikasikan untuk Indonesia.
-
 
 #### Butuh bantuan?
 
 Anda dapat mengajukan pertanyaan atau hal lainnya (yang berhubungan dengan buku ini) ke [w.kristories@gmail.com](mailto:w.kristories@gmail.com).
 
+
 #### Donasi
 
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q6BRRMC3JK9VU)
-
----
-
+Donasi dapat melalui [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q6BRRMC3JK9VU)
 
 
 #### Lisensi 
