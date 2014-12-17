@@ -12,6 +12,7 @@
     * Collection
     * Cursor
 * Tingkat Menengah
+    * Indexes
     * Bulk Write Operation
     * Collection
 * Tingkat Mahir
@@ -20,11 +21,5 @@
     * GridFS
     * Administrasi Server
     * Sekuritas
-    
-* Indexes
-* Replication
-* Sharding
-
-
 * Tips & Trik
 * Penutup
