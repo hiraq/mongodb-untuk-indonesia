@@ -9,6 +9,13 @@ Buku ini didedikasikan untuk Indonesia.
 
 Anda dapat mengajukan pertanyaan atau hal lainnya (yang berhubungan dengan buku ini) ke [w.kristories@gmail.com](mailto:w.kristories@gmail.com).
 
+#### Donasi
+
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q6BRRMC3JK9VU)
+
+---
+
+
 
 #### Lisensi 
 
@@ -16,8 +23,12 @@ Anda dapat mengajukan pertanyaan atau hal lainnya (yang berhubungan dengan buku 
 
 [![cc-by-sa](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-## Sponsor
+---
+
+#### Didukung oleh
 
 [![Jakarta MongoDB User Group](https://s.gravatar.com/avatar/562369fb59cf15eafdf51585d97b36c8?s=80)](https://twitter.com/IDMUG)
 [![NoSQL Indonesia](https://s.gravatar.com/avatar/918640b0c498223ca88db1c4bac84660?s=80)](https://twitter.com/NoSQLIndonesia)
+
+
 
