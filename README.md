@@ -23,8 +23,9 @@ Donasi dapat melalui [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclic
 
 #### Didukung oleh
 
-[![Jakarta MongoDB User Group](https://s.gravatar.com/avatar/562369fb59cf15eafdf51585d97b36c8?s=80)](https://twitter.com/IDMUG)
 [![NoSQL Indonesia](https://s.gravatar.com/avatar/918640b0c498223ca88db1c4bac84660?s=80)](https://twitter.com/NoSQLIndonesia)
+[![Jakarta MongoDB User Group](https://s.gravatar.com/avatar/562369fb59cf15eafdf51585d97b36c8?s=80)](https://twitter.com/IDMUG)
+
 
 
 
