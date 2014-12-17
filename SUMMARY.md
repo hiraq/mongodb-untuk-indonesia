@@ -6,7 +6,8 @@
    * [OS X](instalasi_os_x.md)
    * Linux
    * Windows
-* Operasi Dasar
+* Penggunaan
+   * Operasi Dasar
 * Shell Methods
 * Operator
 * Perintah Database
@@ -16,4 +17,5 @@
 * Sharding
 * GridFS
 * Sekuritas
+* Tips & Trik
 * Penutup
