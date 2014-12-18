@@ -23,6 +23,8 @@
     * Sharding
     * GridFS
     * Administrasi Server
-    * Sekuritas
+* Optimasi
+    * Indexes
+* Sekuritas
 * Tips & Trik
 * Penutup
