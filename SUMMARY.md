@@ -8,7 +8,7 @@
        * Linux
        * Windows
    * [Menjalankan MongoDB](menjalankan_mongodb.md)
-   * Konfigurasi MongoDB
+   * [Konfigurasi MongoDB](konfigurasi_mongodb.md)
 * Penggunaan Dasar
    * Connection
    * Database
