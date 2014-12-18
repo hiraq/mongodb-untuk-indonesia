@@ -14,17 +14,12 @@
    * Database
    * Collection
    * Cursor
-* Tingkat Menengah
-   * Indexes
-   * Bulk Write Operation
-   * Collection
-* Tingkat Mahir
-   * Replication
-   * Sharding
-   * GridFS
-   * Administrasi Server
+* Replication
+* Sharding
+* GridFS
 * Optimasi
    * Indexes
+   * Administrasi Server
 * Sekuritas
 * Tips & Trik
 * Penutup
