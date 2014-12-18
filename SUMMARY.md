@@ -2,7 +2,7 @@
 
 * [Pengantar](README.md)
 * [NoSQL dan MongoDB](nosql_dan_mongodb.md)
-* Persiapan
+* [Persiapan](persiapan.md)
    * Instalasi
        * [OS X](instalasi_os_x.md)
        * Linux
