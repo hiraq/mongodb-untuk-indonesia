@@ -1,2 +1,0 @@
-# Konfigurasi MongoDB
-
