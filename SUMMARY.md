@@ -3,28 +3,29 @@
 * [Pengantar](README.md)
 * [NoSQL dan MongoDB](nosql_dan_mongodb.md)
 * Persiapan
-    * Instalasi
-        * [OS X](instalasi_os_x.md)
-        * Linux
-        * Windows
-    * Menjalankan MongoDB
-    * Konfigurasi MongoDB
+   * Instalasi
+       * [OS X](instalasi_os_x.md)
+       * Linux
+       * Windows
+   * [Menjalankan MongoDB](menjalankan_mongodb.md)
+   * Konfigurasi MongoDB
 * Penggunaan Dasar
-    * Connection
-    * Database
-    * Collection
-    * Cursor
+   * Connection
+   * Database
+   * Collection
+   * Cursor
 * Tingkat Menengah
-    * Indexes
-    * Bulk Write Operation
-    * Collection
+   * Indexes
+   * Bulk Write Operation
+   * Collection
 * Tingkat Mahir
-    * Replication
-    * Sharding
-    * GridFS
-    * Administrasi Server
+   * Replication
+   * Sharding
+   * GridFS
+   * Administrasi Server
 * Optimasi
-    * Indexes
+   * Indexes
 * Sekuritas
 * Tips & Trik
 * Penutup
+
