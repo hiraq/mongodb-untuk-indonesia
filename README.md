@@ -5,7 +5,7 @@ Buku ini akan mengajarkan Anda dasar-dasar dari MongoDB. Apakah Anda seorang yan
 
 #### Dalam Pengembangan
 
-Buku ini masih dalam tahap pengembangan. Target waktu dalam menyempurnakan buku ini adalah Februari 2015.
+Buku ini masih dalam tahap pengembangan. Target waktu penyelesaian buku ini adalah Februari 2015.
 
 **Contoh status yang ada pada halaman yang masih dikembangkan**
 
