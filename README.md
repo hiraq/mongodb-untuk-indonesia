@@ -10,9 +10,8 @@ Anda dapat mengajukan pertanyaan atau hal lainnya (yang berhubungan dengan buku 
 
 #### Donasi
 
-[![Donasi](https://dl.dropboxusercontent.com/u/83581209/mongodb-untuk-indonesia/button.donasi.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q6BRRMC3JK9VU).
-
-Donasi dapat melalui [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q6BRRMC3JK9VU)
+Donasi dapat melalui [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q6BRRMC3JK9VU).
+[![Donasi](https://dl.dropboxusercontent.com/u/83581209/mongodb-untuk-indonesia/button.donasi.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q6BRRMC3JK9VU)
 
 #### Lisensi 
 
