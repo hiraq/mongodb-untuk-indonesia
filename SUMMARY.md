@@ -11,7 +11,7 @@
        * Windows
    * [Menjalankan MongoDB](menjalankan_mongodb.md)
    * [Konfigurasi](konfigurasi.md)
-* Database
+* [Database](database.md)
 * Collection
 * Cursor
 * Replication
