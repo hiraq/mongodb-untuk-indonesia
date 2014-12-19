@@ -11,10 +11,10 @@
        * Windows
    * [Menjalankan MongoDB](menjalankan_mongodb.md)
    * [Konfigurasi](konfigurasi.md)
+* Menggunakan MongoDB
 * [Database](database.md)
    * [Mengelola Database](mengelola_database.md)
    * [Manajemen Pengguna](manajemen_pengguna.md)
-   * Menggunakan MongoDB
 * Collection
 * Cursor
 * Replication
