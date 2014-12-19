@@ -11,7 +11,7 @@ Anda dapat menggunakan MongoDB dengan menjalankan `mongo`.
 
 Secara otomatis, `mongo` akan menggunakan database **test**.
 
-![Menjalankan MongoDB](https://dl.dropboxusercontent.com/u/83581209/mongodb-untuk-indonesia/assets/menggunakan_mongodb.png)
+![Menjalankan MongoDB](https://dl.dropboxusercontent.com/u/83581209/mongodb-untuk-indonesia/assets/menggunakan_mongodb.1.png)
 
 ## Database
 
@@ -41,14 +41,27 @@ Contoh membuat collection.
 
 Document akan sering Anda jumpai. Disinilah data yang akan Anda kelola.
 
-### Manambahkan document
+### Manambahkan Document
 
+Dibawah ini adalah contoh untuk menambahkan document baru pada collection "**provinsi**".
 
+    db.provinsi.insert({ nama: "DKI Jakarta" })
+    
+Anda dapat menambahkan document lainnya dengan struktur yang berbeda.
 
+    db.provinsi.insert({ nama: "Aceh", ibukota: "Banda Aceh" })
 
+### Mencari Document
 
+Setelah Anda menambahkan document pada collection, kali ini Anda akan dipandu untuk mencari document yang telah Anda buat sebelumnya.
 
+Mencari seluruh document.
 
+    db.provinsi.find()
+
+Anda akan memperoleh hasil seperti ini.
+
+![Mencari Document](https://dl.dropboxusercontent.com/u/83581209/mongodb-untuk-indonesia/assets/menggunakan_mongodb.2.png)
 
 
 
