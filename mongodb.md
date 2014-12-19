@@ -4,7 +4,7 @@ MongoDB merupakan open-source document database dari keluarga NoSQL, yang member
 
 
 ### Document
-Data pada MongoDB dikenal sebagai document. MongoDB menggunakan [BSON](http://bsonspec.org/) sebagai format penyimpanan data untuk document, mirip dengan JSON.
+Data pada MongoDB dikenal sebagai document. MongoDB menggunakan [BSON](http://bsonspec.org/) serialization sebagai format penyimpanan data untuk document, mirip dengan JSON.
 
 Contoh document
 
