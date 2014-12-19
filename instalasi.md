@@ -1,6 +1,4 @@
-# Instalasi, Menjalankan dan Konfigurasi MongoDB
-
-## Instalasi
+# Instalasi
 
 Untuk proses instalasi, pilih sistem operasi yang digunakan.
 
