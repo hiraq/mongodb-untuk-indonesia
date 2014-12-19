@@ -14,7 +14,6 @@
 * [Database](database.md)
    * Mengelola Database
    * [Manajemen Pengguna](manajemen_pengguna.md)
-   * Mengelola Database
 * Collection
 * Cursor
 * Replication
