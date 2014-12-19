@@ -15,7 +15,7 @@
 * [Database](database.md)
    * [Mengelola Database](mengelola_database.md)
    * [Manajemen Pengguna](manajemen_pengguna.md)
-* Collection
+* [Collection](collection.md)
 * Cursor
 * Replication
 * Sharding
