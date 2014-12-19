@@ -14,3 +14,28 @@ Menjalankan `mongod`.
 Jika menginginkan menjalankan MongoDB pada direktori yang berbeda, dapat menambahkan `--dbpath`. Jangan lupa untuk mengubah permission direktori tersebut agar dapat membaca dan menulis.
 
     mongod --dbpath /folder/yang/akan/dipakai
+    
+    
+Setelah menjalankan `mongod`, Anda dapat menggunakan MongoDB dengan menggunakan `mongo`.
+
+    mongo
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
