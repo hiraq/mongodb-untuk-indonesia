@@ -1,6 +1,8 @@
 # Menggunakan MongoDB
 
-Anda dapat menggunakan MongoDB dengan menggunakan `mongo`.
+![status](https://dl.dropboxusercontent.com/u/83581209/mongodb-untuk-indonesia/button.status.dalam-pengembangan.png)
+
+Anda dapat menggunakan MongoDB dengan menjalankan `mongo`.
 
     mongo
     
