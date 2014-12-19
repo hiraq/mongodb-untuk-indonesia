@@ -10,8 +10,8 @@ Buku ini akan mengajarkan Anda dasar-dasar dari MongoDB. Apakah Anda seorang yan
 | NoSQL dan MongoDB     | Desember 2014 |
 | Persiapan             | Desember 2014 |
 | Menggunakan MongoDB   | Desember 2014 |
-| Database              | 
-| Collection            |
+| Database              | Januari 2015  |
+| Collection            | 
 | Cursor                |
 | Replication           |
 | Sharding              |
