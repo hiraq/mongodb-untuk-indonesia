@@ -10,9 +10,9 @@ Buku ini akan mengajarkan Anda dasar-dasar dari MongoDB. Apakah Anda seorang yan
 | [NoSQL dan MongoDB](nosql_dan_mongodb.md)     | Desember 2014 |
 | [Persiapan](persiapan.md)             | Desember 2014 |
 | [Menggunakan MongoDB](menggunakan_mongodb.md)   | Desember 2014 |
-| Database              | Januari 2015  |
-| Collection            | Januari 2015  |
-| Cursor                | Januari 2015  |
+| [Database](database.md)              | Januari 2015  |
+| [Collection](collection.md)            | Januari 2015  |
+| [Cursor](cursor.md)                | Januari 2015  |
 | Replication           | Januari 2015  |
 | Sharding              | Februari 2015 |
 | GridFS                | Februari 2015 |
