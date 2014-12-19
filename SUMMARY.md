@@ -11,11 +11,9 @@
        * Windows
    * [Menjalankan MongoDB](menjalankan_mongodb.md)
    * [Konfigurasi](konfigurasi.md)
-* Penggunaan Dasar
-   * Connection
-   * Database
-   * Collection
-   * Cursor
+* Database
+* Collection
+* Cursor
 * Replication
 * Sharding
 * GridFS
