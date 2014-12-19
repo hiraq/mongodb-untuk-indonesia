@@ -12,13 +12,13 @@ Buku ini akan mengajarkan Anda dasar-dasar dari MongoDB. Apakah Anda seorang yan
 | Menggunakan MongoDB   | Desember 2014 |
 | Database              | Januari 2015  |
 | Collection            | Januari 2015  |
-| Cursor                | Februari 2015 |
-| Replication           | Maret 2015    |
-| Sharding              |
-| GridFS                |
-| Optimasi              |
-| Sekuritas             |
-| Tips & Trik           |
+| Cursor                | Januari 2015  |
+| Replication           | Januari 2015  |
+| Sharding              | Februari 2015 |
+| GridFS                | Februari 2015 |
+| Optimasi              | Maret 2015    |
+| Sekuritas             | Maret 2015    |
+| Tips & Trik           | Maret         |
 
 
 #### Butuh bantuan?
