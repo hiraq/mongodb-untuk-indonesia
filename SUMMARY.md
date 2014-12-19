@@ -19,8 +19,6 @@
 * Sharding
 * GridFS
 * Optimasi
-   * Indexes
-   * Administrasi Server
 * Sekuritas
 * Tips & Trik
 * Penutup
