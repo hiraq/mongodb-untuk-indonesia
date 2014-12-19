@@ -25,7 +25,7 @@ Contoh berikut adalah menggunakan database **indonesia**.
 
 ## Collection
 
-Pengelompokan dokumen di MongoDB disebut collection. Jika Anda pernah menggunakan SQL sebelumnya, collection sama halnya dengan table.
+Pengelompokan dokumen di MongoDB disebut collection. Jika Anda pernah menggunakan SQL sebelumnya, collection sama halnya dengan table. Anda dapat melihat Terminologi dan Konsep pada [halaman MongoDB](mongodb.md).
 
 
 
