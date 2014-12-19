@@ -1,5 +1,3 @@
-![cover.jpg](https://dl.dropboxusercontent.com/u/83581209/mongodb-untuk-indonesia/cover.jpg)
-
 # Pengantar
 
 Buku ini akan mengajarkan Anda dasar-dasar dari MongoDB. Apakah Anda seorang yang berpengalaman atau tidak, buku ini ditujukan untuk semua orang yang ingin belajar bahasa tentang MongoDB document database, keluarga NoSQL.
