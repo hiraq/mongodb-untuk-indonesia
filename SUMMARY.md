@@ -12,7 +12,7 @@
    * [Menjalankan MongoDB](menjalankan_mongodb.md)
    * [Konfigurasi](konfigurasi.md)
 * [Database](database.md)
-   * Manajemen Pengguna
+   * [Manajemen Pengguna](manajemen_pengguna.md)
 * Collection
 * Cursor
 * Replication
