@@ -36,7 +36,6 @@ Contoh membuat collection.
     db.createCollection('provinsi')
 
 
-
 ## Document
 
 Document akan sering Anda jumpai. Disinilah data yang akan Anda kelola.
