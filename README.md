@@ -16,9 +16,9 @@ Buku ini akan mengajarkan Anda dasar-dasar dari MongoDB. Apakah Anda seorang yan
 | Replication           | Januari 2015  |
 | Sharding              | Februari 2015 |
 | GridFS                | Februari 2015 |
-| Optimasi              | Maret 2015    |
-| Sekuritas             | Maret 2015    |
-| Tips & Trik           | Maret 2015    |
+| Optimasi              | Februari 2015 |
+| Sekuritas             | Februari 2015 |
+| Tips & Trik           | Februari 2015 |
 
 
 #### Butuh bantuan?
