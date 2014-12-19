@@ -1,5 +1,7 @@
 # NoSQL
 
+![status](https://dl.dropboxusercontent.com/u/83581209/mongodb-untuk-indonesia/button.status.dalam-pengembangan.png)
+
 [NoSQL](http://id.wikipedia.org/wiki/NoSQL) (sering ditafsirkan sebagai "tidak hanya SQL") adalah kelas yang luas dari sistem manajemen basis data yang di identifikasikan dengan tidak mematuhi aturan pada model sistem manajemen basis data relasional yang banyak digunakan. NoSQL tidak dibangun terutama dengan table dan umumnya tidak menggunakan SQL untuk memanipulasi data.
 
 ### Teorema CAP
