@@ -16,7 +16,7 @@
    * [Mengelola Database](mengelola_database.md)
    * [Manajemen Pengguna](manajemen_pengguna.md)
 * [Collection](collection.md)
-* Cursor
+* [Cursor](cursor.md)
 * Replication
 * Sharding
 * GridFS
