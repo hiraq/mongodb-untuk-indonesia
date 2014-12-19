@@ -6,13 +6,13 @@
    * [MongoDB](mongodb.md)
 * [Persiapan](persiapan.md)
    * [Instalasi](instalasi.md)
-       * Mengelola Database
        * [OS X](instalasi_os_x.md)
        * Linux
        * Windows
    * [Menjalankan MongoDB](menjalankan_mongodb.md)
    * [Konfigurasi](konfigurasi.md)
 * [Database](database.md)
+   * Mengelola Database
    * [Manajemen Pengguna](manajemen_pengguna.md)
    * Mengelola Database
 * Collection
