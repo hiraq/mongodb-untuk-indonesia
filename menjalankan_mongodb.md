@@ -1,9 +1,13 @@
 # Menjalankan MongoDB
 
-Sebelum menjalankan MongoDB, buatlah direktori khusus untuk `mongod` yang akan melakukan proses menulis data. Defult direktori berada di `/data/db`. Ubah permission direktori tersebut agar dapat membaca dan menulis, dan pastikan bahwa MongoDB `bin` ada dalam variable PATH.
+`mongod` adalah daemon utama untuk sistem MongoDB. Tugas `mongod` adalah menangani semua permintaan  dan pengelolaan data.
+
+`mongod` membutuhkan direktori khusus untuk menyimpan data file. Secara default, direktori untuk `mongod` berada di `/data/db`, tetapi Anda dapat menentukan direktori sendiri untuk `mongod`.
+
+Setelah menentukan direktori `mongod`, ubah permission direktori tersebut agar dapat membaca dan menulis. Pastikan juga bahwa MongoDB `bin` ada dalam variable PATH.
 
 
-Jalankan `mongod`.
+Menjalankan `mongod`.
 
     mongod
 
