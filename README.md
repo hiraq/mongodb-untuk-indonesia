@@ -3,7 +3,15 @@
 Buku ini akan mengajarkan Anda dasar-dasar dari MongoDB. Apakah Anda seorang yang berpengalaman atau tidak, buku ini ditujukan untuk semua orang yang ingin belajar tentang MongoDB document database, keluarga NoSQL.
 
 
-#### Estimasi Waktu Kesempurnaan Buku
+#### Dalam Pengembangan
+
+Buku ini masih dalam tahap pengembangan. Target waktu dalam menyempurnakan buku ini adalah Februari 2015.
+
+**Contoh status yang ada pada halaman yang masih dikembangkan**
+
+![status](https://dl.dropboxusercontent.com/u/83581209/mongodb-untuk-indonesia/button.status.dalam-pengembangan.png)
+
+**Estimasi Waktu Kesempurnaan Buku**
 
 | Bab                   | Waktu         |
 | --                    | --            |
@@ -19,6 +27,7 @@ Buku ini akan mengajarkan Anda dasar-dasar dari MongoDB. Apakah Anda seorang yan
 | Optimasi              | Februari 2015 |
 | Sekuritas             | Februari 2015 |
 | Tips & Trik           | Februari 2015 |
+
 
 
 #### Butuh bantuan?
