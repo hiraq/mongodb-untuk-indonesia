@@ -14,3 +14,22 @@ Secara otomatis, `mongo` akan menggunakan database **test**.
 
 ## Database
 
+Dengan MongoDB, Anda tidak perlu repot dengan membuat database terlebih dahulu. Anda dapat langsung menggunakan database yang Anda inginkan, sekalipun database tersebut belum dibuat.
+
+Contoh berikut adalah menggunakan database **indonesia**.
+
+    > use indonesia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
