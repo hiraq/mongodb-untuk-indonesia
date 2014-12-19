@@ -39,6 +39,29 @@ Contoh membuat collection.
 
 ## Document
 
+Document akan sering Anda jumpai. Disinilah data yang akan Anda kelola.
+
+### Manambahkan document
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
