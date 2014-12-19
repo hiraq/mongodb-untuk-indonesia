@@ -11,7 +11,7 @@
        * Windows
    * [Menjalankan MongoDB](menjalankan_mongodb.md)
    * [Konfigurasi](konfigurasi.md)
-* Menggunakan MongoDB
+* [Menggunakan MongoDB](menggunakan_mongodb.md)
 * [Database](database.md)
    * [Mengelola Database](mengelola_database.md)
    * [Manajemen Pengguna](manajemen_pengguna.md)
