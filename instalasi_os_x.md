@@ -5,7 +5,7 @@ Ada dua cara instalasi pada OS X, yaitu :
 - Via [Homerew](http://brew.sh/)
 - Manual
 
-## Homebrew
+## Via Homebrew
 
 Instalasi MongoDB production release
 
@@ -34,7 +34,7 @@ Ubah nama folder `mongodb-osx-x86_64-2.6.6` menjadi `mongodb`.
 
     mv mongodb-osx-x86_64-2.6.6 mongodb
 
-Tambahkan MongoDB pada variabel PATH
+Tambahkan MongoDB pada [PATH environment variable](http://en.wikipedia.org/wiki/PATH_%28variable%29)
 
     export PATH=<FOLDER MONGODB>/bin:$PATH
 
