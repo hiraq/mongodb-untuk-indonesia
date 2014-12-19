@@ -36,7 +36,7 @@ Contoh membuat collection.
 
     db.createCollection('provinsi')
 
-*Penggunaan collection lengkap, dapat dilihat di bab [Collection](collection.md)*
+*Penggunaan collection lengkap, dapat dilihat di bab [Database](database.md) dan [Collection](collection.md)*
 
 ## Document
 
@@ -65,8 +65,7 @@ Anda akan memperoleh hasil seperti ini.
 ![Mencari Document](https://dl.dropboxusercontent.com/u/83581209/mongodb-untuk-indonesia/assets/menggunakan_mongodb.2.png)
 
 
-*Penggunaan document lengkap, dapat dilihat di bab [Document](document.md)*
-
+*Penggunaan collection lengkap, dapat dilihat di bab [Collection](collection.md) dan [Cursor](cursor.md)*
 
 
 
