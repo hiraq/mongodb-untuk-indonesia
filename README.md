@@ -11,9 +11,9 @@ Buku ini akan mengajarkan Anda dasar-dasar dari MongoDB. Apakah Anda seorang yan
 | Persiapan             | Desember 2014 |
 | Menggunakan MongoDB   | Desember 2014 |
 | Database              | Januari 2015  |
-| Collection            | 
-| Cursor                |
-| Replication           |
+| Collection            | Januari 2015  |
+| Cursor                | Februari 2015 |
+| Replication           | Maret 2015    |
 | Sharding              |
 | GridFS                |
 | Optimasi              |
