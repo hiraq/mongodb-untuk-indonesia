@@ -36,6 +36,7 @@ Contoh membuat collection.
 
     db.createCollection('provinsi')
 
+*Penggunaan collection lengkap, dapat dilihat di bab [Collection](collection.md)*
 
 ## Document
 
