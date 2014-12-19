@@ -22,6 +22,7 @@ Contoh berikut adalah menggunakan database **indonesia**.
     > use indonesia
 
 
+*Penggunaan database lengkap, dapat dilihat di bab [Database](database.md)*
 
 ## Collection
 
