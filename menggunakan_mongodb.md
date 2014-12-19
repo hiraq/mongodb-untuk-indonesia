@@ -2,6 +2,10 @@
 
 ![status](https://dl.dropboxusercontent.com/u/83581209/mongodb-untuk-indonesia/button.status.dalam-pengembangan.png)
 
+> **Catatan**:
+>
+> Penulis menggunakan [mongo-hacker](https://github.com/TylerBrock/mongo-hacker)
+
 ## Menjalankan `mongo`
 Anda dapat menggunakan MongoDB dengan menjalankan `mongo`.
 
@@ -24,7 +28,7 @@ Contoh berikut adalah menggunakan database **indonesia**.
 
 ## Collection
 
-
+Colletion adalah 
 
 
 
