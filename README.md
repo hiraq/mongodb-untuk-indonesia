@@ -3,6 +3,24 @@
 Buku ini akan mengajarkan Anda dasar-dasar dari MongoDB. Apakah Anda seorang yang berpengalaman atau tidak, buku ini ditujukan untuk semua orang yang ingin belajar bahasa tentang MongoDB document database, keluarga NoSQL.
 
 
+#### Estimasi Waktu Kesempurnaan Buku
+
+| Bab                   | Waktu         |
+| --                    | --            |
+| NoSQL dan MongoDB     | Desember 2014 |
+| Persiapan             | Desember 2014 |
+| Menggunakan MongoDB   | Desember 2014 |
+| Database              | 
+| Collection            |
+| Cursor                |
+| Replication           |
+| Sharding              |
+| GridFS                |
+| Optimasi              |
+| Sekuritas             |
+| Tips & Trik           |
+
+
 #### Butuh bantuan?
 
 Anda dapat mengajukan pertanyaan atau hal lainnya (yang berhubungan dengan buku ini) ke [w.kristories@gmail.com](mailto:w.kristories@gmail.com).
