@@ -65,8 +65,7 @@ Anda akan memperoleh hasil seperti ini.
 ![Mencari Document](https://dl.dropboxusercontent.com/u/83581209/mongodb-untuk-indonesia/assets/menggunakan_mongodb.2.png)
 
 
-
-
+*Penggunaan collection lengkap, dapat dilihat di bab [Collection](collection.md)*
 
 
 
