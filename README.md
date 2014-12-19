@@ -1,6 +1,6 @@
 # Pengantar
 
-Buku ini akan mengajarkan Anda dasar-dasar dari MongoDB. Apakah Anda seorang yang berpengalaman atau tidak, buku ini ditujukan untuk semua orang yang ingin belajar bahasa tentang MongoDB document database, keluarga NoSQL.
+Buku ini akan mengajarkan Anda dasar-dasar dari MongoDB. Apakah Anda seorang yang berpengalaman atau tidak, buku ini ditujukan untuk semua orang yang ingin belajar tentang MongoDB document database, keluarga NoSQL.
 
 
 #### Estimasi Waktu Kesempurnaan Buku
