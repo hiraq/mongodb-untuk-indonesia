@@ -7,9 +7,9 @@ Buku ini akan mengajarkan Anda dasar-dasar dari MongoDB. Apakah Anda seorang yan
 
 | Bab                   | Waktu         |
 | --                    | --            |
-| NoSQL dan MongoDB     | Desember 2014 |
-| Persiapan             | Desember 2014 |
-| Menggunakan MongoDB   | Desember 2014 |
+| [NoSQL dan MongoDB](nosql_dan_mongodb.md)     | Desember 2014 |
+| [Persiapan](persiapan.md)             | Desember 2014 |
+| [Menggunakan MongoDB](menggunakan_mongodb.md)   | Desember 2014 |
 | Database              | Januari 2015  |
 | Collection            | Januari 2015  |
 | Cursor                | Januari 2015  |
