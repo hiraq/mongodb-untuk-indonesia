@@ -17,7 +17,7 @@
    * [Manajemen Pengguna](manajemen_pengguna.md)
 * [Collection](collection.md)
 * [Cursor](cursor.md)
-* Replication
+* [Replication](replication.md)
 * Sharding
 * GridFS
 * Optimasi
