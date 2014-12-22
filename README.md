@@ -21,7 +21,7 @@ Buku ini masih dalam tahap pengembangan. Target waktu penyelesaian buku ini adal
 | [Database](database.md)              | Januari 2015  |
 | [Collection](collection.md)            | Januari 2015  |
 | [Cursor](cursor.md)                | Januari 2015  |
-| Replication           | Januari 2015  |
+| [Replication](replication.md)           | Januari 2015  |
 | Sharding              | Februari 2015 |
 | GridFS                | Februari 2015 |
 | Optimasi              | Februari 2015 |
