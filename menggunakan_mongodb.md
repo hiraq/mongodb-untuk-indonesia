@@ -104,6 +104,10 @@ Anda juga dapat mengganti document yang sudah ada dengan document baru. Perbedaa
 ![Mengubah Document](https://dl.dropboxusercontent.com/u/83581209/mongodb-untuk-indonesia/assets/menggunakan_mongodb.3.png)
 
 
+### Menghapus Document
+
+
+
 *Penggunaan collection lengkap, dapat dilihat di bab [Collection](collection.md) dan [Cursor](cursor.md)*
 
 
