@@ -78,7 +78,7 @@ Data yang sudah dibuat, dapat diubah kembali. Ada dua jenis pengubahan data, yai
 
 `$set` dapat digunakan untuk mengubah hanya pada spesifik field.
 
-Contoh berikut adalah untuk mengubah field "**nama**" dari "**DKI Jakarta**" ke "Jakarta".
+Contoh berikut adalah untuk mengubah field "**nama**" dari "**DKI Jakarta**" ke "**Jakarta**".
 
     db.provinsi.update(
         { nama: "DKI Jakarta" },
