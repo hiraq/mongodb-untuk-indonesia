@@ -65,6 +65,38 @@ Anda akan memperoleh hasil seperti ini.
 ![Mencari Document](https://dl.dropboxusercontent.com/u/83581209/mongodb-untuk-indonesia/assets/menggunakan_mongodb.2.png)
 
 
+### Mengubah Document
+
+Data yang sudah dibuat, dapat diubah kembali. Ada dua jenis pengubahan data, yaitu :
+
+- Mengubah spesifik field pada document,
+- Mengganti document.
+
+
+#### Mengubah spesifik field pada document
+
+`$set` dapat digunakan untuk mengubah hanya pada spesifik field.
+
+Contoh berikut adalah untuk mengubah field "nama" dari "DKI Jakarta" ke "Jakarta".
+
+    db.provinsi.update(
+        { nama: "DKI Jakarta" },
+        {
+          $set: {
+            nama: "Jakarta"
+          }
+        }
+    )
+    
+#### Mengganti document
+
+Anda juga dapat mengganti document yang sudah ada dengan document baru. Perbedaannya adalah, seluruh field yang ada pada document yang sudah ada, akan diganti dengan seluruh field yang baru.
+
+    db.provinsi.update(
+       { nama: "Jakarta" },
+       { nama: "Jawa Barat" }
+    )
+
 *Penggunaan collection lengkap, dapat dilihat di bab [Collection](collection.md) dan [Cursor](cursor.md)*
 
 
