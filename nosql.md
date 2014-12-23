@@ -12,5 +12,12 @@ Teorema CAP menyatakan bahwa, tidak mungkin untuk sebuah sistem komputer terdist
 - **Availability** - Jaminan pada setiap permintaan, menerima tanggapan tentang apakah itu berhasil atau tidak.
 - **Partition tolerance** - Sistem terus beroperasi meski sistem yang lain gagal.
 
+![Teorema CAP](https://dl.dropboxusercontent.com/u/83581209/mongodb-untuk-indonesia/assets/nosql.1.jpg)
 
-![Teorema CAP](http://i.stack.imgur.com/a9hMn.png)
+
+
+
+
+
+
+
