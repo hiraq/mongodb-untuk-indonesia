@@ -100,8 +100,6 @@ Anda juga dapat mengganti document yang sudah ada dengan document baru. Perbedaa
        { ibukota: "Jawa Barat" }
     )
 
-![Mengubah Document](https://dl.dropboxusercontent.com/u/83581209/mongodb-untuk-indonesia/assets/menggunakan_mongodb.3.png)
-
 
 ### Menghapus Document
 
