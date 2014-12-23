@@ -106,7 +106,17 @@ Anda juga dapat mengganti document yang sudah ada dengan document baru. Perbedaa
 
 ### Menghapus Document
 
+Berikut adalah contoh untuk menghapus seluruh document yang mempunyai field "nama" bernilai "Aceh".
 
+    db.provinsi.remove({ nama: "Aceh" })
+
+Jika menghapus hanya satu dokumen saja, dapat menambahkan parameter kedua dengan nilai `boolean`.
+
+    db.provinsi.remove({ nama: "Aceh" }, 1)
+    
+Untuk menghapus seluruh document, dapat menghilangkan kriteria.
+
+    db.provinsi.remove({})
 
 *Penggunaan collection lengkap, dapat dilihat di bab [Collection](collection.md) dan [Cursor](cursor.md)*
 
