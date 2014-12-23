@@ -78,7 +78,7 @@ Data yang sudah dibuat, dapat diubah kembali. Ada dua jenis pengubahan data, yai
 
 `$set` dapat digunakan untuk mengubah hanya pada spesifik field.
 
-Contoh berikut adalah untuk mengubah field "nama" dari "DKI Jakarta" ke "Jakarta".
+Contoh berikut adalah untuk mengubah field "**nama**" dari "**DKI Jakarta**" ke "Jakarta".
 
     db.provinsi.update(
         { nama: "DKI Jakarta" },
@@ -105,7 +105,7 @@ Anda juga dapat mengganti document yang sudah ada dengan document baru. Perbedaa
 
 ### Menghapus Document
 
-Berikut adalah contoh untuk menghapus seluruh document yang mempunyai field "nama" bernilai "Aceh".
+Berikut adalah contoh untuk menghapus seluruh document yang mempunyai field "**nama**" bernilai "**Aceh**".
 
     db.provinsi.remove({ nama: "Aceh" })
 
