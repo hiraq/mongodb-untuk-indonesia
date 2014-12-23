@@ -51,6 +51,7 @@ Anda dapat menambahkan document lainnya dengan struktur yang berbeda.
 
     db.provinsi.insert({ nama: "Aceh", ibukota: "Banda Aceh" })
     
+![Mencari Document](https://dl.dropboxusercontent.com/u/83581209/mongodb-untuk-indonesia/assets/menggunakan_mongodb.2.png)
 
 ### Mencari Document
 
@@ -60,9 +61,9 @@ Mencari seluruh document.
 
     db.provinsi.find()
 
-Anda akan memperoleh hasil seperti ini.
+Jika ingin mencari document berdasarkan kriteria tertentu, dapat ditambahkan kriteria pada parameter pertama.
 
-![Mencari Document](https://dl.dropboxusercontent.com/u/83581209/mongodb-untuk-indonesia/assets/menggunakan_mongodb.2.png)
+    db.provinsi.find({ "nama": "DKI Jakarta" })
 
 
 ### Mengubah Document
