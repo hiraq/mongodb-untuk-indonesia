@@ -30,7 +30,7 @@ Pengelompokan dokumen di MongoDB disebut collection. Jika Anda pernah menggunaka
 
 > MongoDB adalah schemaless!
 
-Artinya, MongoDB memiliki skema yang fleksibel. Anda tidak dituntut untuk menentukan struktur data pada saat pembuatan collection. Layaknya folder, Anda dapat menempatkan apapun pada folder tersebut, seperti dokumen, gambar, lagu, atau apapun yang Anda inginkan.
+Artinya, MongoDB memiliki skema yang fleksibel. Layaknya folder, Anda dapat menempatkan apapun pada folder tersebut, seperti dokumen, gambar, lagu, atau apapun yang Anda inginkan. Anda tidak dituntut untuk menentukan struktur data pada saat pembuatan collection, dan dapat menempatkan data dengan struktur yang berbeda-beda.
 
 Contoh membuat collection.
 
@@ -42,6 +42,7 @@ Contoh membuat collection.
 
 Document akan sering Anda jumpai. Disinilah data yang akan Anda kelola.
 
+
 ### Manambahkan Document
 
 Dibawah ini adalah contoh untuk menambahkan document baru pada collection "**provinsi**".
@@ -51,6 +52,7 @@ Dibawah ini adalah contoh untuk menambahkan document baru pada collection "**pro
 Anda dapat menambahkan document lainnya dengan struktur yang berbeda.
 
     db.provinsi.insert({ nama: "Aceh", ibukota: "Banda Aceh" })
+    
 
 ### Mencari Document
 
