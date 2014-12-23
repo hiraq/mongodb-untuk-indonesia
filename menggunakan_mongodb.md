@@ -92,10 +92,14 @@ Contoh berikut adalah untuk mengubah field "nama" dari "DKI Jakarta" ke "Jakarta
 
 Anda juga dapat mengganti document yang sudah ada dengan document baru. Perbedaannya adalah, seluruh field yang ada pada document yang sudah ada, akan diganti dengan seluruh field yang baru.
 
+
     db.provinsi.update(
        { nama: "Jakarta" },
-       { nama: "Jawa Barat" }
+       { ibukota: "Jawa Barat" }
     )
+
+![Mengubah Document](https://dl.dropboxusercontent.com/u/83581209/mongodb-untuk-indonesia/assets/menggunakan_mongodb.3.png)
+
 
 *Penggunaan collection lengkap, dapat dilihat di bab [Collection](collection.md) dan [Cursor](cursor.md)*
 
