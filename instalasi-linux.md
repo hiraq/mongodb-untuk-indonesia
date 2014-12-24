@@ -1,2 +1,2 @@
-# Linux
+# Instalasi - Linux
 
