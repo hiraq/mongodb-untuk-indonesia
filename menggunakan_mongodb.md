@@ -51,7 +51,7 @@ Contoh membuat collection.
 Document akan sering Anda jumpai. Disinilah data yang akan Anda kelola.
 
 
-### Manambahkan Document
+### Menambahkan Document
 
 Dibawah ini adalah contoh untuk menambahkan document baru pada collection "**provinsi**".
 
