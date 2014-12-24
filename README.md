@@ -11,9 +11,9 @@ Buku ini masih dalam tahap pengembangan.
 
 | Bab                   | Waktu         |
 | --                    | --            |
-| [NoSQL dan MongoDB](nosql_dan_mongodb.md)     | Desember 2014 |
+| [~~NoSQL dan MongoDB~~](nosql_dan_mongodb.md)     | Desember 2014 |
 | [Persiapan](persiapan.md)             | Desember 2014 |
-| [Menggunakan MongoDB](menggunakan_mongodb.md)   | Desember 2014 |
+| [~~Menggunakan MongoDB~~](menggunakan_mongodb.md)   | Desember 2014 |
 | [Database](database.md)              | Januari 2015  |
 | [Collection](collection.md)            | Januari 2015  |
 | [Cursor](cursor.md)                | Januari 2015  |
