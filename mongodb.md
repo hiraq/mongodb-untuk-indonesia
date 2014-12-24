@@ -3,7 +3,7 @@
 MongoDB merupakan open-source document database dari keluarga NoSQL, yang memberikan kinerja tinggi, high availability, dan automatic scaling.
 
 
-### Document
+## Document
 Data pada MongoDB dikenal sebagai document. MongoDB menggunakan [BSON](http://bsonspec.org/) serialization sebagai format penyimpanan data untuk document, mirip dengan JSON.
 
 Contoh document
@@ -19,7 +19,7 @@ Contoh document
     }
 
 
-### Terminologi dan Konsep
+## Terminologi dan Konsep
 
 Tabel berikut menyajikan terminologi berbagai SQL dan MongoDB.
 
@@ -67,7 +67,7 @@ Tabel berikut menyajikan terminologi berbagai SQL dan MongoDB.
 </table>
 
 
-### Contoh Penggunaan
+## Contoh Penggunaan
 
 **SQL**
 
