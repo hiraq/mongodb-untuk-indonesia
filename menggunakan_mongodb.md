@@ -2,7 +2,14 @@
 
 Pada bab ini akan diulas tentang menggunakan MongoDB dasar seperti :
 
-- [Menjalankan `mongo`](#menjalankan-mongo), 
+- [Menjalankan `mongo`](#menjalankan-mongo),
+- [Database](#database)
+- [Collection](#collection)
+- [Document](#document)
+    - [Menambahkan Document](#menambahkan-document)
+    - [Mencari Document](#mencari-document)
+    - [Mengubah Document](#mengubah-document)
+    - [Menghapus Document](#menghapus-document)
 
 ## Menjalankan `mongo`
 Anda dapat menggunakan MongoDB dengan menjalankan `mongo`.
