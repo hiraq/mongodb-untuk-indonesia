@@ -1,5 +1,8 @@
 # Menggunakan MongoDB
 
+Pada bab ini akan diulas tentang menggunakan MongoDB dasar seperti :
+
+- [Menjalankan `mongo`](#menjalankan-mongo), 
 
 ## Menjalankan `mongo`
 Anda dapat menggunakan MongoDB dengan menjalankan `mongo`.
