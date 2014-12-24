@@ -38,6 +38,7 @@ Untuk informasi tentang NoSQL, Anda dapat mengikuti akun Twitter dibawah ini.
 
 ## Kontributor
 - [Wahyu Kristianto](https://twitter.com/kristories)
+- [Aditya Eka Prasetio](https://twitter.com/adityaprasty)
 
 
 ## Donasi
