@@ -23,5 +23,5 @@
 * Optimasi
 * Sekuritas
 * Tips & Trik
-* Penutup
+* [Penutup](penutup.md)
 
