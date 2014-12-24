@@ -7,7 +7,7 @@
 * [Persiapan](persiapan.md)
    * [Instalasi](instalasi.md)
        * [OS X](instalasi_os_x.md)
-       * Linux
+       * [Linux](instalasi-linux.md)
        * Windows
    * [Menjalankan MongoDB](menjalankan_mongodb.md)
    * [Konfigurasi](konfigurasi.md)
