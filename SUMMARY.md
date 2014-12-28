@@ -8,7 +8,7 @@
    * [Instalasi](instalasi.md)
        * [OS X](instalasi_os_x.md)
        * [Linux](instalasi-linux.md)
-       * [Windows](instalasi-windows.md)
+       * [Windows](instalasi_windows.md)
    * [Menjalankan MongoDB](menjalankan_mongodb.md)
    * [Konfigurasi](konfigurasi.md)
 * [Menggunakan MongoDB](menggunakan_mongodb.md)
