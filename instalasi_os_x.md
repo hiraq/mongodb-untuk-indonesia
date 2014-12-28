@@ -22,7 +22,7 @@ Instalasi MongoDB development release, dapat menambahkan `--devel`
     
 ## Manual
 
-Unduh file dari `https://www.mongodb.org/downloads`. Contoh yang digunakan saat ini adalah MongoDB versi 2.6.6 / 64-bit.
+Unduh file dari [`https://www.mongodb.org/downloads`](https://www.mongodb.org/downloads). Contoh yang digunakan saat ini adalah MongoDB versi 2.6.6 / 64-bit.
 
     curl -O http://downloads.mongodb.org/osx/mongodb-osx-x86_64-2.6.6.tgz
 
