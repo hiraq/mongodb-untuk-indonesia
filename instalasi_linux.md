@@ -42,3 +42,5 @@ Di step ini, menggunakan linux distro dari turunan Debian, yaitu Ubuntu.  Ada du
   ```
   export PATH=<FORDER_MONGODB>/bin:$PATH
   ```
+  
+Lebih baik menggunakan package manager, karena dengan cara ini, kita sudah termasuk mendapatkan control script, yaitu sebuah script untuk mengatur mongodb agar bisa berjalan sebagai sebuah daemon, termasuk pengontrolan untuk start & stop
